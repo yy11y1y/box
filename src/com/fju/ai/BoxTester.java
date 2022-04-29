@@ -21,7 +21,6 @@ package com.fju.ai;
     Please enter object's height: 21
     三號箱
  */
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
